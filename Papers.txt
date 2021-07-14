@@ -1,0 +1,4 @@
+Performance Study of SQL and NoSQL Solutions for Analytical Loads
+https://www.researchgate.net/publication/265964446_Performance_Study_of_SQL_and_NoSQL_Solutions_for_Analytical_Loads
+
+why is it always MongoDB
