@@ -3,5 +3,5 @@ TO DOs
 1. WhiteDB/MVStore (je nachdem welche wir nehmen, müssen wir noch Clusterfähigkeit etc noch machen)
 2. Vor/Nachteile von jeden Papern als generelle Stärken und Schwächen. Also was übernehmen wir und was wollen wir vermeiden
 3. Vergleich der Benchmarks auch mit Vor-und Nachteilen und wieso vielleicht die und nicht die andere
-4.  Vielleicht unseren Testablauf noch bissle ausführen, je nachdem wie lange wir bisher brauchen 
+4. Vielleicht unseren Testablauf noch bissle ausführen, je nachdem wie lange wir bisher brauchen 
 5. Ausblick (mit der Zeichnung von Alex)
